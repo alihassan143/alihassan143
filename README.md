@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @alihassan143<br>- 👀 I’m interested in software development.<br>- 🌱 I’m currently learning Data Structure & Algorithms.<br>- 💞️ I’m looking to collaborate on open source projects.<br>- 📫 How to reach me ... alihassan143c0ol@gmail.com
+- 👋 Hi, I’m Ali Hassan<br>- 👀 I’m interested in software development.<br>- 🌱 I’m currently learning Dart Server React and NodeJS<br>- 💞️ I’m looking to collaborate on open source projects.<br>- 📫 How to reach me ... alihassan143cool@gmail.com
 
 
 ## 🌐 Socials:
