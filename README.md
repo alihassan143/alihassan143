@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m Ali Hassan<br>- 👀 I’m interested in software development.<br>- 🌱 I’m currently learning Dart Server React and NodeJS<br>- 💞️ I’m looking to collaborate on open source projects.<br>- 📫 How to reach me ... alihassan143cool@gmail.com
+- 👋 Hi, I’m Ali Hassan<br>
+- 👀 i am flutter developer and passionate about learning new technologies <br>
+- 👀 I’m interested in software development.<br>- 🌱 I’m currently learning Dart Server React and NodeJS<br>- 💞️ I’m looking to collaborate on open source projects.<br>- 📫 How to reach me ... alihassan143cool@gmail.com
 
 
 ## 🌐 Socials:
