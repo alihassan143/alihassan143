@@ -15,7 +15,7 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alihassan143&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Ali Hassan GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alihassan143&include_all_commits=true&theme=dark&show_icons=true)
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alihassan143&theme=tokyo-night" alt="Contribution Graph" align="center" />
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alihassan143&hide_title=true&hide_border=true&langs_count=2&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alihassan143cool&hide_title=true&hide_border=true&langs_count=2&bg_color=00000000&text_color=777)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
